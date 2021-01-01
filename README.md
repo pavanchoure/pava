@@ -1,2 +1,2 @@
 # pava
-Pavan.co.ib
+Pavan.co.in
